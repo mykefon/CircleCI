@@ -12,7 +12,7 @@ orbs:
   # See the orb documentation here: https://circleci.com/developer/orbs/orb/circleci/aws-s3
   # NOTE: Environment variables containing the necessary secrets can be setup in the CircleCI UI
   # See here https://circleci.com/docs/2.0/env-vars/#setting-an-environment-variable-in-a-project
-  aws-s3: circleci/aws-s3@2.0
+  aws-s3: s3://myke-circle-ci
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
