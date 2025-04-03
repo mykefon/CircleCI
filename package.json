@@ -1,0 +1,9 @@
+{
+  "name": "circleci-docs",
+  "version": "1.0.0",
+  "description": "this is my sample package.",
+  "main": "index.js",
+  "engines": {
+    "node": "14.17.3"
+  }
+}
